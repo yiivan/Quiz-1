@@ -1,4 +1,5 @@
 module HelperMethods
+  
   def titleize(string)
     array = string.downcase.split
     for word in array
