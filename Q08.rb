@@ -1,5 +1,6 @@
 require "./Q07.rb"
 
+
 module Blog
   class Article
     attr_accessor :title, :body
