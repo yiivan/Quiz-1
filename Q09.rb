@@ -1,6 +1,7 @@
 class Book
   attr_accessor :title, :chapters
 
+
   def initialize(title = "", chapters = [])
     @title = title
     @chapters = chapters
