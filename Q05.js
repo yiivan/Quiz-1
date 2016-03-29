@@ -6,7 +6,6 @@ var evenNum = function(n) {
   return result;
 };
 
-
 console.log(evenNum(4));
 console.log(evenNum(7));
 console.log(evenNum(10));
