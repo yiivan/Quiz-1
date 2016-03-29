@@ -8,6 +8,7 @@ def even_num(n)
   array
 end
 
+
 # print even_num(4)
 # puts ""
 # print even_num(7)
