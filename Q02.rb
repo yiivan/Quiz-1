@@ -1,7 +1,6 @@
 #A stack is where a thing is call first, but the last to be executed.
 #A queue is where a thing is call first, and will also be executed first.
 
-
 #FILO
 class Stack
   attr_accessor :array1
