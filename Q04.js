@@ -8,6 +8,7 @@ var isPrime = function(n) {
   console.log(bool);
 };
 
+
 isPrime(2);
 isPrime(3);
 isPrime(4);
