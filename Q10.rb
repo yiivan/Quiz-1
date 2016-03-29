@@ -4,6 +4,7 @@ module HelperMethods
   end
 end
 
+
 class MyInclude
   include HelperMethods
 end
